@@ -1,5 +1,5 @@
 echo "> Initiating repo & manifest"
-repo init -u https://github.com/PixelOS-Pixelish/manifest -b twelve
+repo init -u https://github.com/Evolution-X/manifest -b snow
 
 echo "
 > Cloning treble manifest & removing unnecessary XML"
